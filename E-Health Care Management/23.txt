@@ -1,0 +1,22 @@
+Date of admission: 17/08/2023 21:12:33
+Name : 23
+Address : 23
+Contact Number : 23
+Age : 23
+Sex : 23
+Blood Group : 23
+Any Major disease suffered earlier : 23
+Patient ID : 23
+
+********************************************************************
+
+
+Description of the day:17/08/2023 21:12:48
+Doctor appointed: 23
+Symptoms : 23
+Diagnosis : 23
+Medicines : 23
+Addmission Required? : 23
+*************************************************************************
+
+Total Bill:45.0

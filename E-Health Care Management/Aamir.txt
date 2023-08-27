@@ -1,0 +1,21 @@
+Date of admission: 17/08/2023 20:59:03
+Name : Aamir Shahab
+Address : 75-adil nagar
+Contact Number : 6387812413
+Age : 220
+Sex : Male
+Blood Group : B+
+Any Major disease suffered earlier : fever
+Patient ID : 33
+
+********************************************************************
+
+
+Description of the day:17/08/2023 21:00:07
+Doctor appointed: Dr. Danish
+Symptoms : fever
+Diagnosis : Typoid
+Medicines : Paracitamol
+Addmission Required? : yes
+*************************************************************************
+
